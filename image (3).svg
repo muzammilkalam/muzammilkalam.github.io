@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" style="width:100%;height:100%;transform:translate3d(0,0,0)" viewBox="0 0 600 600">
+  <defs>
+    <clipPath id="a">
+      <path d="M0 0h600v600H0z"/>
+    </clipPath>
+    <linearGradient id="d" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-559.62" y1="-85.863" x2="-325.117" y2="15.485">
+      <stop offset="0%" stop-color="#16B9FF" stop-opacity=".6"/>
+      <stop offset="50%" stop-color="#2C95ED" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#4271DB" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="c" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-604.195" y1="-144.228" x2="-128.21" y2="-964.311">
+      <stop offset="0%" stop-color="#16B9FF" stop-opacity=".6"/>
+      <stop offset="50%" stop-color="#2C95ED" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#4271DB" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="b" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="-758.739" y1="-163.456" x2="-174.283" y2="-902.13">
+      <stop offset="0%" stop-color="#16B9FF" stop-opacity=".6"/>
+      <stop offset="50%" stop-color="#2C95ED" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#4271DB" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#a)">
+    <g opacity=".5" style="display:block">
+      <path fill="url(#b)" fill-opacity="1" d="M-6.839-778.612C7.519-616.967-110.672-547.964-205.186-458.474-387.406-286.82-320.646-136.16-394.199-51.93c-124.364 142.591-449.1-1.78-510.75-103.86-71.156-118.447-46.74-455.637 173.26-666.637 220-211 702.745-201.587 724.85 43.815z" transform="matrix(1,0,0,1,186.0800018310547,14.609999656677246) matrix(1,0,0,1,486.2850036621094,478.9960021972656)" opacity="1"/>
+    </g>
+    <g opacity=".5" style="display:block">
+      <path fill="url(#c)" fill-opacity="1" d="M-22.285-772.003c-81.997 140.589-240.097 170.401-307.45 297.345-67.354 126.941 93.835 294.918 19.586 426.92-74.249 131.997-295.749 7.1-355.35-124.9C-768.127-399.932-754.9-705.55-463.46-920.137S77.237-942.638-22.285-772.003z" transform="matrix(1,0,0,1,-572.8319702148438,-518.7400512695312) matrix(1,0,0,1,987.3200073242188,1023.1799926757812)" opacity="1"/>
+    </g>
+    <g opacity=".5" style="display:block">
+      <path fill="url(#d)" fill-opacity="1" d="M-9.781-262.664c-64.847 186.09-313.24 305.701-496.177 248.11-142.942-44.999-73.216-211.373 93.443-321.999C-226.63-459.942 56.215-452.054-9.781-262.664z" transform="matrix(1,0,0,1,-24.25148582458496,-43.598358154296875) matrix(1,0,0,1,291.57598876953125,209.45899963378906)" opacity="1"/>
+    </g>
+  </g>
+</svg>
